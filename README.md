@@ -9,3 +9,11 @@
 * Высокая точность поиска
 * Высокая скорость поиска
 * Низкая цена
+  
+ ```css
+.partners {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+} ```
